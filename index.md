@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/numbervine/numbervine.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If it strikes you as being rather empty, you're spot on :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've just about started packaging and publishing my code. Got a bunch of JS and PHP modules in the works which should be out there in a month or so, hoping all goes well. I finally got to it after more than decade of procrastination! Pink Floyd articulated this perfectly - "And then one day you find ten years have got behind you.. . No one told you when to run, you missed the starting gun"
 
-### Markdown
+## A tech keyword cloud of my work history would contain these, listed approximately in reverse chronological order
+- Redux
+- React
+- ReactNative
+- ES6
+- MaterialUI
+- SocketIO
+- TURN
+- STUN
+- WebRTC
+- PeerJS
+- MongoDB
+- MERN
+- Node
+- Yii2
+- PHP7
+- MariaDB
+- MySQL
+- AWS
+- PhantomJS
+- LAMP
+- Javascript
+- jQuery
+- Java
+- C/C++
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/numbervine/numbervine.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Relevant Work History
+To be added soon
