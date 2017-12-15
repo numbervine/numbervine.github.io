@@ -43,8 +43,8 @@ I've just about started packaging and publishing some of [my code](https://githu
 - C/C++
 
 ### Pet projects
-- Development of AI trading strategy models for deployment on numer.ai
-- A WebRTC and geo-location enabled platform for multiple business applications
+- Development of quant models for deployment on numer.ai(https://numer.ai)
+- WebRTC and geo-location enabled platform for multiple business applications
 - Business use case of a directed acyclic graph based platform for workflow definition, management and scheduling of atomic tasks [vjsez.com](https://vjsez.com)
 - p-hash image search powered strategy for optimal marketing of illustration services [marilcha-illustrations.com](https://marilcha-illustrations.com)
 
