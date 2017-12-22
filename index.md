@@ -20,12 +20,14 @@ I've just about started packaging and publishing some of [my code](https://githu
 - MongoDB
 - MariaDB
 - PHP7
-- AWS
+- AWS (EC2/S3)
 - Yii2
 - Git
 - PhantomJS
 - Deterministic Finite Automata
-- Directed Acyclic Graph
+- Directed Acyclic Graphs
+- SimpleTest
+- Test Driven Development
 - jQuery
 - SVN
 - Genetic Programming
