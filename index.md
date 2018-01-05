@@ -19,6 +19,8 @@ I've just about started packaging and publishing some of [my code](https://githu
 - Node
 - MongoDB
 - MariaDB
+- REST API
+- Wordpress API
 - PHP7
 - AWS (EC2/S3)
 - Yii2
